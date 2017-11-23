@@ -25,6 +25,8 @@ func greet(person: String) {
     print("Hello, \(person)!")
 }
 greet(person: "Dave")
+greet(person: "Gordon")
+greet(person: "Anna")
 //Prints "Hello, Dave!"
 
 // Now greet Dave by invoking the function
