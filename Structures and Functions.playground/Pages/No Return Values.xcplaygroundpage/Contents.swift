@@ -27,6 +27,8 @@ func greet(person: String) {
 greet(person: "Dave")
 greet(person: "Gordon")
 greet(person: "Anna")
+greet(person: "Dakyum")
+greet(person: "Timur")
 //Prints "Hello, Dave!"
 
 // Now greet Dave by invoking the function
